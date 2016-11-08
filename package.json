@@ -1,0 +1,36 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "",
+		"id": "93c032be-2d17-42a3-897d-c940eb3a5f6b",
+		"downloadUrl": "",
+		"publisherId": "c455d278-0d86-42a0-be42-892846ae3111",
+		"publisherDisplayName": "hansrwindhoff",
+		"installCount": 1,
+		"date": "2016-11-08T18:07:15.133Z"
+	},
+	"name": "theme-hansgreen",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": ">=0.9.0-pre.1"
+	},
+	"publisher": "hansrwindhoff",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hans Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/HansGreen.tmTheme"
+			}
+		]
+	},
+	"displayName": "HansGreen",
+	"description": "greenish",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	]
+}
